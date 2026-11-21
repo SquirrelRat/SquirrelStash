@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+
+## Loader build log
+Errors.txt
+
+## House plugin local files
+docs/
+dev/
+Tests/
